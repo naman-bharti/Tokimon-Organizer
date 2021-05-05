@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Assign2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Assign2_jar</output-path>
+    <root id="archive" name="Assign2.jar">
+      <element id="module-output" name="Assign2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gson-2.8.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
